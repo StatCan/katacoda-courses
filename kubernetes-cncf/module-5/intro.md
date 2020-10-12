@@ -4,10 +4,6 @@ Welcome to the Digital Academy "Kubernetes CNCF" series. This is Module 5 - Depl
 
 In this scenario, you will learn how to deploy Istio Service Mesh to Kubernetes. Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. Istio supports managing traffic flows between microservices, enforcing access policies, and aggregating telemetry data, all without requiring changes to the microservice code
 
-> Note: The scenario uses the sample BookInfo application. The application has no dependencies on Istio and demonstrates how any application could build upon Istio without modifications.
+For this course content we encourage you to go the updated Istio scenario created by [JavaJon](https://github.com/javajon)
 
-For more information, see the Istio [documentation][docs].
-
-<!-- Links Referenced -->
-
-[docs]:           https://istio.io/
+* [Istio Scenario](https://katacoda.com/javajon/courses/kubernetes-applications/istio-intro)

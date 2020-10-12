@@ -16,40 +16,12 @@
         }
       ]
     },
-    "steps": [
-      {
-        "title": "Kubernetes Cluster",
-        "text": "step1.md"
-      },
-      {
-        "title": "Install Knative",
-        "text": "step2.md"
-      },
-      {
-        "title": "Install Kubernetes Dashboard",
-        "text": "step3.md"
-      },
-      {
-        "title": "Deploy Application",
-        "text": "step4.md"
-      },
-      {
-        "title": "Invoke Application",
-        "text": "step5.md"
-      },
-      {
-        "title": "Delete Application",
-        "text": "step6.md"
-      }
-    ],
+    "steps": [],
     "intro": {
       "text": "intro.md",
       "code": "env-init.sh",
-      "credits": "Developer(s): [William Hearn](https://sylus.ca) and [Zachary Seguin](https://zacharyseguin.ca)",
+      "credits": "Developed by [JavaJon](https://github.com/javajon)",
       "courseData": "setup.sh"
-    },
-    "finish": {
-      "text": "finish.md"
     }
   },
   "environment": {

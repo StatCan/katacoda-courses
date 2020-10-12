@@ -6,19 +6,6 @@ Helm is the default package manager for Kubernetes. Helm simplifies discovering 
 
 > Helm is the best way to find, share, and use software built for Kubernetes.
 
-In the following steps you will learn:
+For this course content we encourage you to go the updated Helm scenario created by [JavaJon](https://github.com/javajon)
 
-- How to install and uninstall applications,
-- What a chart provides,
-- How to list public charts,
-- How to list and add more repositories,
-- How to create your own chart,
-- How to update a chart.
-
-More details can be found on their [website](http://www.helm.sh/).
-
-For more information, see the Helm [documentation][docs].
-
-<!-- Links Referenced -->
-
-[docs]:           https://helm.sh
+* [Helm Scenario](https://katacoda.com/javajon/courses/kubernetes-pipelines/helm)

@@ -16,43 +16,12 @@
         }
       ]
     },
-    "steps": [
-      {
-        "title": "Your Kubernetes Cluster",
-        "text": "step1.md"
-      },
-      {
-        "title": "Deploy ElasticSearch",
-        "text": "step2.md",
-        "code": "clear.sh"
-      },
-      {
-        "title": "Deploy Fluent Bit",
-        "text": "step3.md",
-        "code": "clear.sh"
-      },
-      {
-        "title": "Deploy Kibana",
-        "text": "step4.md",
-        "code": "clear.sh"
-      },
-      {
-        "title": "Generate Log Events",
-        "text": "step5.md"
-      },
-      {
-        "title": "View Log Events",
-        "text": "step6.md"
-      }
-    ],
+    "steps": [],
     "intro": {
       "text": "intro.md",
       "code": "env-init.sh",
-      "credits": "Developer(s): [William Hearn](https://sylus.ca) and [Zachary Seguin](https://zacharyseguin.ca)",
+      "credits": "Developed by [JavaJon](https://github.com/javajon)",
       "courseData": "setup.sh"
-    },
-    "finish": {
-      "text": "finish.md"
     }
   },
   "environment": {
