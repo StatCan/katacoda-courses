@@ -33,7 +33,7 @@
     "intro": {
       "text": "intro.md",
       "code": "env-init.sh",
-      "credits": "Initially developed by [BoxBoat][https://boxboat.com]",
+      "credits": "Initially developed by [BoxBoat](https://boxboat.com)",
       "courseData": "setup.sh"
     },
     "finish": {
