@@ -1,0 +1,12 @@
+{
+  "title": "k3s",
+  "description": "A high level overview of k3s.",
+  "icon": "fa-docker",
+  "courses": [
+    {
+      "course_id": "module-1-setup-k3s",
+      "title": "Module 1 - K3s Basics",
+      "description": "Overview on the installation of K3s and a few of the basics."
+    }
+  ]
+}
